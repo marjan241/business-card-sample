@@ -1,1 +1,1 @@
-A simple demo card design using cat version
+A simple demo business card design using cat version
